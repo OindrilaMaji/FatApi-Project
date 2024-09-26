@@ -1,4 +1,4 @@
-# FatApi-Project
+# FastApi-Project
 # Asset Performance Dashboard API
 
 ## Overview
